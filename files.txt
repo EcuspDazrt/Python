@@ -1,0 +1,9 @@
+Practice reading a text file using the Python language!
+
+Create a text file that has a .txt extension and enter in a sentence or two.
+
+Navigate back to your Python file that has a .py extension.
+
+Inside your Python file create a variable and assign it to a command to open the text file. Make sure to include the r which means to read!
+
+In a print statement, read the text file. This should print the contents of the text file to the console.
